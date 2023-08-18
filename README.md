@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @johnycash06
+- 👀 I’m interested in Web3 & blockchain
+- 🌱 I’m currently learning React & Node.js
